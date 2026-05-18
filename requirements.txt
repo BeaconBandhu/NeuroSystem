@@ -1,0 +1,27 @@
+# ── Core numerics ─────────────────────────────────────────────────────────────
+numpy>=1.24.0
+scipy>=1.10.0
+
+# ── WebSocket (ESP32 live stream) ─────────────────────────────────────────────
+websocket-client>=1.6.0
+
+# ── Machine learning ──────────────────────────────────────────────────────────
+scikit-learn>=1.3.0
+joblib>=1.1.1                  # scikit-learn job parallelism
+threadpoolctl>=2.0.0           # scikit-learn thread pool control
+
+# ── Plotting / GUI graphs ─────────────────────────────────────────────────────
+matplotlib>=3.7.0
+contourpy>=1.0.1               # matplotlib contour engine
+cycler>=0.10.0                 # matplotlib colour cycling
+fonttools>=4.22.0              # matplotlib font handling
+kiwisolver>=1.0.1              # matplotlib layout solver
+packaging>=20.0                # matplotlib version parsing
+pillow>=9.0.0                  # matplotlib image support
+pyparsing>=2.3.1               # matplotlib expression parser
+python-dateutil>=2.7.0         # matplotlib date handling
+six>=1.5.0                     # python-dateutil dependency
+
+# ── MongoDB persistence ───────────────────────────────────────────────────────
+pymongo>=4.5.0                 # includes bson (Binary, ObjectId, etc.)
+dnspython>=2.1.0               # pymongo SRV connection string support

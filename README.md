@@ -210,7 +210,7 @@ Certain implementation details, datasets, and deployment configurations are with
 
 ## Author
 
-**Aranya Bandhu**
+***Aranya Bandhu***
 AI & ML Engineer | Araxys Aerospace | CMR Institute of Technology, Bengaluru
 
 aranyabandhu2004@gmail.com | linkedin.com/in/aranyabandhu | bashin.live | github.com/BeaconBandhu
